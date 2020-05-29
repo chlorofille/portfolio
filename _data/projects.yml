@@ -10,7 +10,7 @@
   image: /assets/images/processing/apercu.jpg
   description: Série d'expérimentations visuelles à l'occasion d'un workshop Processing à Gobelins.
   link: http://workshops.gobelins.fr/2020/02/28/workshop-processing-lea-kovarski/
-- name: trominoscope gobelins
+- name: trombinoscope gobelins
   date: avril 2020 | html/css
   image: /assets/images/trombi/apercu.jpg
   tech: html/css, js, jekyll
