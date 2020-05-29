@@ -3,7 +3,7 @@
   image: /assets/images/d&d/apercu.jpg
   tech: html/css, jquery
   description: Dungeons and dummies est un site web créé dans le cadre de mes cours d'initiation aux html et css à Gobelins. Le site présente un projet de fiction interactive (visual novel) basée sur l'univers du jeu de rôle.
-  link: http://bddi.gobelins-pedago.fr/lea_site
+  link: https://boring-mccarthy-bf292b.netlify.app/
 - name: workshop processing
   date: février 2020 | processing
   tech: processing
