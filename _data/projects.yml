@@ -1,23 +1,23 @@
 - name: dungeons & dummies
-  date: octobre 2019
+  date: octobre 2019 | html/css
   image: /assets/images/d&d/apercu.jpg
   tech: html/css, jquery
   description: Dungeons and dummies est un site web créé dans le cadre de mes cours d'initiation aux html et css à Gobelins. Le site présente un projet de fiction interactive (visual novel) basée sur l'univers du jeu de rôle.
   link: /d&d
 - name: workshop processing
-  date: février 2020
+  date: février 2020 | processing
   tech: processing
   image: /assets/images/processing/apercu.jpg
   description: Série d'expérimentations visuelles à l'occasion d'un workshop Processing à Gobelins.
   link: http://workshops.gobelins.fr/2020/02/28/workshop-processing-lea-kovarski/
 - name: trominoscope gobelins
-  date: avril 2020
+  date: avril 2020 | html/css
   image: /assets/images/trombi/apercu.jpg
   tech: html/css, js, jekyll
   description: Trombinoscope du département Design Interactif et Graphiste Jeu Vidéo de Gobelins, l'école de l'image, réalisé en collaboration avec Elsa Delmas et Loris Birkemeyer.
   link: https://zealous-bhabha-117dfb.netlify.app/
 - name: pochette vinyle
-  date: mai 2020
+  date: mai 2020 | photoshop, illustrator, indesign
   image: /assets/images/pochette/apercu.jpg
   tech: photoshop, illustrator, indesign
   description: Réalisation d'une pochette de vinyle dans le cadre d'un cours de PAO, inspirée par l'univers du jeu Animal Crossing New Horizons.

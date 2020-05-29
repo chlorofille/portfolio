@@ -148,6 +148,15 @@ body{
             p{
                 margin:15px;
             }
+            .contact{
+                margin:15px;
+                margin-top:1em;
+                display: flex;
+                flex-direction: column;
+                p{
+                    margin:0;
+                }
+            }
         }
 
       
