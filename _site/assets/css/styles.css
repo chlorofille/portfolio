@@ -1,0 +1,53 @@
+:root { --base:#f8eae4; --primary:#323a82; --secondary:#2e2c68; --black:#241d11; }
+
+body { margin: 0; padding: 0; font-family: 'Fira Sans', sans-serif; font-size: 18px; background-color: var(--secondary); position: relative; }
+
+body a { color: var(--primary); text-decoration: none; }
+
+body .about-link { position: fixed; color: var(--secondary); font-size: 24px; font-weight: 800; right: 20px; bottom: 20px; }
+
+body .witch img { position: fixed; right: 15px; bottom: 0; width: 200px; }
+
+body header { height: 100vh; position: relative; background-color: var(--secondary); }
+
+body header .title { text-align: center; position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%); }
+
+body header .title .logo img { width: 500px; }
+
+body header .title p { color: white; font-weight: 400; font-size: 20px; margin: 0; }
+
+body main { color: var(--black); background-color: var(--base); margin-left: 5em; }
+
+body main .main-container { padding: 5em; }
+
+body main .main-container .project-container { padding-bottom: 2em; display: flex; align-items: center; position: relative; }
+
+body main .main-container .project-container .project-img { margin-right: 3em; }
+
+body main .main-container .project-container .project-img img { width: 200px; }
+
+body main .main-container .project-container .project-description h1 { margin: 0; color: var(--secondary); }
+
+body main .main-container .project-container .project-description h1:hover { color: var(--primary); }
+
+body main .main-container .project-container .project-description .date { font-weight: 300; }
+
+body main .main-container .project-container .project-description p { padding: 1em 0 0em 1em; width: 80%; }
+
+body main .main-container .project-container .project-description .project-link { padding-left: 1em; font-weight: bold; display: inline; font-size: 20px; transition: all 0.5s; }
+
+body main .main-container .project-container .project-description .project-link:hover { padding-left: 1.5em; }
+
+body main .main-container .project-container .project-description .project-link:hover a { text-decoration: underline; }
+
+body .about-container { height: 100vh; position: relative; }
+
+body .about-container .text { font-size: 20px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); }
+
+body .about-container .text .hi { font-size: 42px; font-weight: 600; margin-bottom: 0; }
+
+body .about-container .text strong { color: var(--secondary); }
+
+body .about-container .text p { margin: 15px; }
+
+/*# sourceMappingURL=styles.css.map */
