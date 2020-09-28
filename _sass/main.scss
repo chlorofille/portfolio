@@ -158,8 +158,33 @@ body{
                 }
             }
         }
+    }
 
-      
+    //PROJETS
+
+    .page-container{
+        padding: 4em;
+        min-width: 100vh;
+        .text{
+            padding:1em;
+            h1{
+                margin:0;
+                color:var(--secondary);
+            }
+            h1:hover{
+                color:var(--primary);
+            }
+        }
+        .img-container{
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+            margin:2.5em 0;   
+            img{
+                max-width: 100%;
+            }
+        }
+   
     }
 
 }

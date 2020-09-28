@@ -9,7 +9,7 @@
   tech: processing
   image: /assets/images/processing/apercu.jpg
   description: Série d'expérimentations visuelles à l'occasion d'un workshop Processing à Gobelins.
-  link: http://workshops.gobelins.fr/2020/02/28/workshop-processing-lea-kovarski/
+  link: /processing
 - name: trombinoscope gobelins
   date: avril 2020 | html/css
   image: /assets/images/trombi/apercu.jpg
@@ -21,10 +21,10 @@
   image: /assets/images/pochette/apercu.jpg
   tech: photoshop, illustrator, indesign
   description: Réalisation d'une pochette de vinyle dans le cadre d'un cours de PAO, inspirée par l'univers du jeu Animal Crossing New Horizons.
-  link: https://i.imgur.com/pxjhFzI.jpg
+  link: /vinyle
 - name: treize
   date: 2020 | html/css/js
   image: /assets/images/treize/apercu.jpg
   tech: monogatari
   description: Projet personnel en cours d'écriture. Treize est un récit interactif à propos de rencontre, de tarot, et des difficultés de communication dans les relations à distance.
-  link: https://imgur.com/a/uDVuI2M
+  link: /treize

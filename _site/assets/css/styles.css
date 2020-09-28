@@ -102,3 +102,20 @@ body {
         flex-direction: column; }
         body .about-container .text .contact p {
           margin: 0; }
+  body .page-container {
+    padding: 4em;
+    min-width: 100vh; }
+    body .page-container .text {
+      padding: 1em; }
+      body .page-container .text h1 {
+        margin: 0;
+        color: var(--secondary); }
+      body .page-container .text h1:hover {
+        color: var(--primary); }
+    body .page-container .img-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin: 2.5em 0; }
+      body .page-container .img-container img {
+        max-width: 100%; }
