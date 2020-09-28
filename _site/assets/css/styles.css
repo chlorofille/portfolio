@@ -103,8 +103,10 @@ body {
         body .about-container .text .contact p {
           margin: 0; }
   body .page-container {
-    padding: 4em;
+    padding: 5em 7em;
     min-width: 100vh; }
+    body .page-container .home-link {
+      margin-bottom: 1em; }
     body .page-container .text {
       padding: 1em; }
       body .page-container .text h1 {

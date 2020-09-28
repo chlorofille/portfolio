@@ -163,8 +163,13 @@ body{
     //PROJETS
 
     .page-container{
-        padding: 4em;
+        padding: 5em 7em;
         min-width: 100vh;
+
+        .home-link{
+            margin-bottom: 1em;
+        }
+
         .text{
             padding:1em;
             h1{
